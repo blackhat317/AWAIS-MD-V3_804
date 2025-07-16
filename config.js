@@ -21,7 +21,7 @@ module.exports = {
     PACKNAME: (process.env.PACK_INFO?.split(';') || [])[1] || '923182832887',
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg",
-    ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M AWAIS-MD WHATSAPP BOT 😊",
+    ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M NAWAB_RDX WHATSAPP BOT 😊",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || "?",
