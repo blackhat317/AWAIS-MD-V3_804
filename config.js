@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "qoAjWYYJ#NSgmwfJActBhpL16I3wtltPrI5BEfiNUICVQmxEdPBA",
+    SESSION_ID: process.env.SESSION_ID || "pZhHlKBK#LRhmiXLOzVUzq-SH0GMs-VkYi9eHB0gmPSxwZN5v_dE",
     HEART_REACT: process.env.HEART_REACT || "false",
     CAPTION: process.env.CAPTION || "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪsxᴄʜᴜᴢᴢᴀ*",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
@@ -22,18 +22,18 @@ module.exports = {
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M AWAIS-MD WHATSAPP BOT 😊",
-    ANTI_LINK: process.env.ANTI_LINK || "false",
-    ANTI_BAD: process.env.ANTI_BAD || "false",
-    PREFIX: process.env.PREFIX || "/",
+    ANTI_LINK: process.env.ANTI_LINK || "true",
+    ANTI_BAD: process.env.ANTI_BAD || "true",
+    PREFIX: process.env.PREFIX || "?",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
-    AUTO_REACT: process.env.AUTO_REACT || "false",
-    OWNER_REACT: process.env.OWNER_REACT || "false",
+    AUTO_REACT: process.env.AUTO_REACT || "true",
+    OWNER_REACT: process.env.OWNER_REACT || "true",
     BOT_NAME: process.env.BOT_NAME || "ᴀᴡᴀɪs ᴍᴅ",
     ANTI_VV: process.env.ANTI_VV || "true",
-    ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", // change it to 'same' if you want to resend deleted message in same chat
-    OWNER_NAME: process.env.OWNER_NAME || "AWAISXD", //replace with your name 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "9231828",// add your bot owner number
-    DEV: process.env.DEV || "923470027813", //replace with your whatsapp number
+    ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "inbox", // change it to 'same' if you want to resend deleted message in same chat
+    OWNER_NAME: process.env.OWNER_NAME || "NAWAB_RDX", //replace with your name 
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "923046862036",// add your bot owner number
+    DEV: process.env.DEV || "923046863036", //replace with your whatsapp number
     AUTOLIKESTATUS: process.env.AUTOLIKESTATUS || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`𝒚𝒐𝒖𝒓 𝒔𝒕𝒂𝒕𝒖𝒔 𝒔𝒆𝒆𝒏 𝒋𝒖𝒔𝒕 𝒏𝒐𝒘 𝒃𝒚 𝒂𝒘𝒂𝒊𝒔 𝒎𝒅`",
