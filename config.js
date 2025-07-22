@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "pZhHlKBK#LRhmiXLOzVUzq-SH0GMs-VkYi9eHB0gmPSxwZN5v_dE",
+    SESSION_ID: process.env.SESSION_ID || "MUoxCTzb#Hp_ncrukct8pJ8uNQcuLUJCmb8CTjg7qo8uK6vv2YmY",
     HEART_REACT: process.env.HEART_REACT || "false",
     CAPTION: process.env.CAPTION || "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪsxᴄʜᴜᴢᴢᴀ*",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
@@ -24,7 +24,7 @@ module.exports = {
     ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M NAWAB_RDX WHATSAPP BOT 😊",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
-    PREFIX: process.env.PREFIX || "?",
+    PREFIX: process.env.PREFIX || ".",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
     AUTO_REACT: process.env.AUTO_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
@@ -32,7 +32,7 @@ module.exports = {
     ANTI_VV: process.env.ANTI_VV || "true",
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "inbox", // change it to 'same' if you want to resend deleted message in same chat
     OWNER_NAME: process.env.OWNER_NAME || "NAWAB_RDX", //replace with your name 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "923046862036",// add your bot owner number
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "923345800839",// add your bot owner number
     DEV: process.env.DEV || "923046863036", //replace with your whatsapp number
     AUTOLIKESTATUS: process.env.AUTOLIKESTATUS || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
