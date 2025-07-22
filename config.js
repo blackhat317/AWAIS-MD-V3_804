@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "qoAjWYYJ#NSgmwfJActBhpL16I3wtltPrI5BEfiNUICVQmxEdPBA",
+    SESSION_ID: process.env.SESSION_ID || "MUoxCTzb#Hp_ncrukct8pJ8uNQcuLUJCmb8CTjg7qo8uK6vv2YmY",
     HEART_REACT: process.env.HEART_REACT || "false",
     CAPTION: process.env.CAPTION || "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪsxᴄʜᴜᴢᴢᴀ*",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
@@ -22,9 +22,9 @@ module.exports = {
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M AWAIS-MD WHATSAPP BOT 😊",
-    ANTI_LINK: process.env.ANTI_LINK || "false",
-    ANTI_BAD: process.env.ANTI_BAD || "false",
-    PREFIX: process.env.PREFIX || "/",
+    ANTI_LINK: process.env.ANTI_LINK || "true",
+    ANTI_BAD: process.env.ANTI_BAD || "true",
+    PREFIX: process.env.PREFIX || ".",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     OWNER_REACT: process.env.OWNER_REACT || "false",
@@ -32,7 +32,7 @@ module.exports = {
     ANTI_VV: process.env.ANTI_VV || "true",
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", // change it to 'same' if you want to resend deleted message in same chat
     OWNER_NAME: process.env.OWNER_NAME || "AWAISXD", //replace with your name 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "9231828",// add your bot owner number
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "923345800839",// add your bot owner number
     DEV: process.env.DEV || "923470027813", //replace with your whatsapp number
     AUTOLIKESTATUS: process.env.AUTOLIKESTATUS || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
